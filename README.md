@@ -22,5 +22,9 @@ https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/
 https://landing.google.com/advancedprotection/  
 https://www.privacytools.io/
 
-# Database Management  
+## Database Management  
 https://tableplus.com/  
+
+## Remote Work Tools
+https://meet.jitsi.net/  
+https://whentochat.co/
