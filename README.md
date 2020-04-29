@@ -26,7 +26,8 @@ https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/
 
 ## Security/Privacy Information  
 https://landing.google.com/advancedprotection/  
-https://www.privacytools.io/
+https://www.privacytools.io/  
+https://keys.pub/#install  
 
 ## Database Management  
 https://tableplus.com/  
