@@ -28,6 +28,8 @@ https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/
 https://landing.google.com/advancedprotection/  
 https://www.privacytools.io/  
 https://keys.pub/#install  
+https://www.killdisk.com/eraser.html  
+
 
 ## Database Management  
 https://tableplus.com/  
