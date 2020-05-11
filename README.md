@@ -2,19 +2,27 @@
 
 ## WebDev Tools 
 HTTP Status Code - https://en.wikipedia.org/wiki/List_of_HTTP_status_codes  
+Logo Maker - https://logomakr.com/  
+Flat Icon - https://www.flaticon.com/  
+Font Awesome - https://fontawesome.com/  
+Google Font - https://fonts.google.com/ 
+Visual Code Studio - https://code.visualstudio.com/  
+
 
 ## Domain 
 https://www.domcomp.com/  
 
 ## CSS 
-https://cssbuilder.veliovgroup.com/  
+CSS Builder - https://cssbuilder.veliovgroup.com/  
+Mozilla CSS - https://developer.mozilla.org/en-US/docs/Web/CSS  
 
 ## Security Check
 https://sitecheck.sucuri.net/  
 
 ## Password Manager
-https://www.enpass.io/  
-https://bitwarden.com/  
+Bitwarden - https://bitwarden.com/  
+Enpass - https://www.enpass.io/  
+  
 
 ## 2FA  
 https://authy.com/  
