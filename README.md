@@ -10,6 +10,9 @@ Visual Code Studio - https://code.visualstudio.com/
 CSS Builder - https://cssbuilder.veliovgroup.com/  
 Mozilla CSS - https://developer.mozilla.org/en-US/docs/Web/CSS  
 
+## Framework & Stuff
+Bootstrap - https://getbootstrap.com/  
+Font Awesome - https://fontawesome.com/  
 
 ## Domain 
 https://www.domcomp.com/  
