@@ -24,7 +24,8 @@ Netlify - https://www.netlify.com/
 WPEngine - [https://wpengine.com/](https://shareasale.com/r.cfm?b=1512517&u=1404625&m=41388&urllink=&afftrack=)  
 
 ## Security Check  
-https://sitecheck.sucuri.net/  
+Sucuri - https://sitecheck.sucuri.net/  
+WPScan - https://wpscan.org/
 
 ## Password Manager
 Bitwarden - https://bitwarden.com/  
