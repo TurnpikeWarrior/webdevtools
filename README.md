@@ -10,6 +10,7 @@ Visual Code Studio - https://code.visualstudio.com/
 CSS Builder - https://cssbuilder.veliovgroup.com/  
 Mozilla CSS - https://developer.mozilla.org/en-US/docs/Web/CSS  
 Web Measure - https://web.dev/measure/  
+Everything - https://free-for.dev/#/
 
 ## Framework & Stuff
 Bootstrap - https://getbootstrap.com/  
