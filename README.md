@@ -61,3 +61,4 @@ https://nodesign.dev/
 https://www.yworks.com/products/yed  
 https://datavizcatalogue.com/index.html  
 https://github.com/jgraph/drawio  
+Mind Map - https://gitmind.com/  
