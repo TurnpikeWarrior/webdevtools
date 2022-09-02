@@ -11,7 +11,8 @@ Visual Code Studio - https://code.visualstudio.com/
 CSS Builder - https://cssbuilder.veliovgroup.com/  
 Mozilla CSS - https://developer.mozilla.org/en-US/docs/Web/CSS  
 Web Measure - https://web.dev/measure/  
-Everything - https://free-for.dev/#/
+Everything - https://free-for.dev/#/  
+Many Tools - https://tinywow.com  
 
 ## Framework & Stuff
 Bootstrap - https://getbootstrap.com/  
@@ -62,3 +63,4 @@ https://www.yworks.com/products/yed
 https://datavizcatalogue.com/index.html  
 https://github.com/jgraph/drawio  
 Mind Map - https://gitmind.com/  
+Remove BG - https://remove.bg  
